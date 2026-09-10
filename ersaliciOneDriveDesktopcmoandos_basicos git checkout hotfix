@@ -1,0 +1,41 @@
+[33mcommit ea01ba4e4e0f86b1f6c0fe0263c42eb69956b91e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;33mtag: [m[1;33mv0.4.0[m[33m, [m[1;32mhotfix[m[33m)[m
+Author: Lizbeth <aramos1775@uta.edu.ec>
+Date:   Thu Sep 10 18:21:06 2026 -0500
+
+    feat(home): agregar información de servicio de biblioteca
+
+[33mcommit 6d6cdf95e98fdbf8366c2cfdb79e9f0454cefb1e[m
+Author: Lizbeth <aramos1775@uta.edu.ec>
+Date:   Tue Sep 8 17:46:44 2026 -0500
+
+    chore(git): modifica archivo .gitgnore omitiendo archivo node.js
+
+[33mcommit 43ca3b622a30e7b68cec309eaef15073ca04356a[m
+Author: Lizbeth <aramos1775@uta.edu.ec>
+Date:   Tue Sep 8 17:33:44 2026 -0500
+
+    chore(git): agrega el archivo .gitignore
+
+[33mcommit e16f3ed043d944c200acb268af46c3b8024169e8[m
+Author: Lizbeth <aramos1775@uta.edu.ec>
+Date:   Tue Sep 8 17:22:38 2026 -0500
+
+    feat(home): agrega información de la carrera de software
+
+[33mcommit f12a2e57f896af320b2f46187eb15ab33c8c08f7[m
+Author: Lizbeth <aramos1775@uta.edu.ec>
+Date:   Tue Sep 8 17:08:15 2026 -0500
+
+    Modificación html
+
+[33mcommit 8e18208b32126a22d35bc1682e2563025bb49098[m
+Author: Lizbeth <aramos1775@uta.edu.ec>
+Date:   Thu Sep 3 19:40:45 2026 -0500
+
+    feat
+
+[33mcommit 76d7b3a05cbea4a9fdbe854ca1c2dd15e90aca79[m
+Author: Lizbeth <aramos1775@uta.edu.ec>
+Date:   Thu Sep 3 19:36:32 2026 -0500
+
+    feat(home):modifica informacion del carousel
